@@ -9,7 +9,7 @@ body{
 }
 
 .font-primary{
-    color : #00abae;
+    color : #00ABAE;
 }
 
 
@@ -38,7 +38,7 @@ ABOUT
 
 #about .vocation{
     font-size: 17px;
-    color: #a8a8ab;
+    color: #ABABAB;
     margin-bottom: 10px;
 }
 
@@ -61,9 +61,7 @@ p{
     font-size: 30px;
 }
 
-#about .icons a{
-    color: #008080;
-}
+
 
 p{
     font-size: 14px;
